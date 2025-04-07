@@ -9,21 +9,22 @@ EmiraBooks is inspired by professional accounting software like TallyPrime, offe
 ## Key Components
 
 ### Dashboard
-
+- **<img width="1438" alt="Screenshot 2025-04-07 at 10 38 15 PM" src="https://github.com/user-attachments/assets/3a187617-f10b-4599-a0dd-cc71e1b5c4e0" />
 The Dashboard provides a real-time overview of your business's financial health:
 
-- **Financial Summary**: View key metrics including total revenue (AED 135,000), outstanding invoices (AED 32,000), and inventory value (AED 765,000)
+- **Financial Summary**: View key metrics including total revenue, outstanding invoices, and inventory value
 - **Welcome Section**: Personalized greeting and business overview for the day
 - **Inventory Analysis**: Interactive charts showing inventory value and quantity comparison by product category
 - **Performance Metrics**: Visual representation of key business metrics with color-coded indicators
-- **Recent Transactions**: Quick access to the latest financial activities
+Recent Transactions**: Quick access to the latest financial activities
 - **Cash Flow Widget**: Monitor cash inflows and outflows at a glance
 
 ### Invoicing
+<img width="1433" alt="Screenshot 2025-04-07 at 10 38 25 PM" src="https://github.com/user-attachments/assets/6d0915e9-47c5-4b5a-ad58-5909338e98b1" />
 
 Comprehensive invoice management to handle all your sales documentation:
 
-- **Invoice Dashboard**: Overview of total sales (AED 56,000), pending amounts (AED 20,000), and overdue amounts (AED 12,000)
+- **Invoice Dashboard**: Overview of total sales, pending amounts, and overdue amounts
 - **Invoice Types**: Toggle between sales invoices and purchase invoices
 - **Invoice List**: Detailed list of invoices with ID, customer, date, amount, and status
 - **Status Tracking**: Color-coded status indicators (Pending, Paid, Overdue) for easy identification
@@ -33,10 +34,11 @@ Comprehensive invoice management to handle all your sales documentation:
 - **Create New Invoice**: Dedicated button to create new sales invoices
 
 ### Accounting
+<img width="1435" alt="Screenshot 2025-04-07 at 10 38 33 PM" src="https://github.com/user-attachments/assets/78c9a4a6-fc3c-4bf1-84a5-36db19f3962d" />
 
 Full-featured double-entry accounting system to manage all financial transactions:
 
-- **Financial Overview**: Current balance (AED 120,000), total income (AED 135,000), and total expenses (AED 15,000)
+- **Financial Overview**: Current balance, total income, and total expense
 - **General Ledger**: Chronological record of all financial transactions with date, description, debit, credit, and running balance
 - **Transaction Details**: View complete transaction information including initial investment, expenses, and revenue
 - **Transaction Management**: Add, edit, and delete capabilities for each transaction
@@ -45,6 +47,7 @@ Full-featured double-entry accounting system to manage all financial transaction
 - **Export Functionality**: Export financial data for reporting and analysis
 
 ### Inventory
+<img width="1430" alt="Screenshot 2025-04-07 at 10 38 40 PM" src="https://github.com/user-attachments/assets/f4ad7e44-8263-4d6a-8076-a81d96030a46" />
 
 Comprehensive inventory management to track stock and product performance:
 
