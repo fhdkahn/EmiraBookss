@@ -1,5 +1,8 @@
 # EmiraBooks - Comprehensive Accounting & Business Management Suite
 
+Check it out here...
+https://emira-books-eyywhvtmq-fhdkahn786-gmailcoms-projects.vercel.app/settings
+
 EmiraBooks is a powerful and user-friendly accounting and business management application built with modern web technologies. Designed for small to medium-sized businesses, it provides all the essential tools needed to manage your financial operations efficiently.
 
 ## Overview
